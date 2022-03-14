@@ -1,0 +1,8 @@
+{
+    "scripts": {
+        "build": "sponsorkit -w 800 --dir . --force && sponsorkit -w 1300 --name sponsors.wide --dir . --force"
+    },
+    "dependencies": {
+        "sponsorkit": "latest"
+    }
+}

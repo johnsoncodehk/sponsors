@@ -1,0 +1,6 @@
+sponsorkit
+node_modules
+.env
+.cache.json
+sponsors.json
+sponsors.*.json
