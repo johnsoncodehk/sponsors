@@ -18,38 +18,30 @@ export default defineConfig({
   tiers: [
     {
       title: 'Sponsors',
-      preset: presets.small,
-      // to replace the entire tier rendering
-      // compose: (composer, tierSponsors, config) => {
-      //   composer.addRaw(
-      //     '<-- custom svg -->',
-      //   )
-      // },
-    },
-    {
-      title: 'Generous Sponsors',
-      monthlyDollars: 20,
-      preset: presets.base,
-      // to insert custom elements after the tier block
-      composeAfter: (composer, tierSponsors, config) => {
-        composer.addSpan(10)
+      compose(composer, sponsors) {
+        composer.addTitle('Sponsors');
+        composer.addSponsorGrid(sponsors.filter(sponsor => sponsor.monthlyDollars >= 20), presets.medium);
+        composer.addSponsorGrid(sponsors.filter(sponsor => sponsor.monthlyDollars >= 8 && sponsor.monthlyDollars < 20), presets.base);
+        composer.addSponsorGrid(sponsors.filter(sponsor => sponsor.monthlyDollars < 8), presets.small);
+        composer.addSpan(35);
+        composer.addText('Thank you all.');
       },
     },
     {
       title: 'Silver Sponsors',
       monthlyDollars: 100,
-      preset: presets.medium,
+      preset: presets.large,
     },
-    // {
-    //   title: 'Gold Sponsors',
-    //   monthlyDollars: 250,
-    //   preset: presets.large,
-    // },
     {
-      title: 'Platinum Sponsors',
-      monthlyDollars: 1000,
+      title: 'Gold Sponsors',
+      monthlyDollars: 400,
       preset: presets.xl,
     },
+    // {
+    //   title: 'Platinum Sponsors',
+    //   monthlyDollars: 1000,
+    //   preset: presets.xl,
+    // },
   ],
 })
 
