@@ -1,8 +1,9 @@
 {
     "scripts": {
-        "build": "npm run build:base && npm run build:company",
+        "build": "npm run build:base && npm run build:company && npm run build:company_compact",
         "build:base": "sponsorkit -w 800 --dir . --force",
-        "build:company": "cd company && sponsorkit -w 800 --dir . --force"
+        "build:company": "cd company && sponsorkit -w 800 --dir . --force",
+        "build:company_compact": "cd company_compact && sponsorkit -w 800 --dir . --force"
     },
     "dependencies": {
         "sponsorkit": "latest"
