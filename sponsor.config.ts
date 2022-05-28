@@ -1,20 +1,22 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
 import { defineConfig, presets, Sponsorship } from 'sponsorkit'
 
-export default defineConfig({
-  onSponsorsFetched(sponsors) {
-    defineTierForSponsorInPast(sponsors, 'yaegassy', 100, new Date(2022, 6, 15, 0, 0, 0, 0).valueOf());
-    defineTierForSponsorInPast(sponsors, 'programmierbar', 1000, new Date(2022, 5, 20, 0, 0, 0, 0).valueOf());
+export function onSponsorsFetched(sponsors: Sponsorship[]) {
+  defineTierForSponsorInPast(sponsors, 'yaegassy', 100, new Date(2022, 6, 15, 0, 0, 0, 0).valueOf());
+  defineTierForSponsorInPast(sponsors, 'programmierbar', 1000, new Date(2022, 5, 20, 0, 0, 0, 0).valueOf());
 
-    for (const sponsor of sponsors) {
-      if (sponsor.sponsor.login === 'marvin-robot') {
-        sponsor.sponsor.login = 'PrefectHQ';
-        sponsor.sponsor.name = 'Prefect';
-        sponsor.sponsor.type = 'Organization';
-        sponsor.sponsor.avatarUrl = 'https://avatars.githubusercontent.com/u/39270919?s=200&v=4';
-      }
+  for (const sponsor of sponsors) {
+    if (sponsor.sponsor.login === 'marvin-robot') {
+      sponsor.sponsor.login = 'PrefectHQ';
+      sponsor.sponsor.name = 'Prefect';
+      sponsor.sponsor.type = 'Organization';
+      sponsor.sponsor.avatarUrl = 'https://avatars.githubusercontent.com/u/39270919?s=200&v=4';
     }
-  },
+  }
+}
+
+export default defineConfig({
+  onSponsorsFetched,
   tiers: [
     {
       title: 'Sponsors',
