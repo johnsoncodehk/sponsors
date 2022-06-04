@@ -34,7 +34,7 @@ export default defineConfig({
         sponsors: consumeSponsors(sponsor => sponsor.monthlyDollars >= 2000),
         preset: presets.xl,
         logoSize: {
-          width: 688,
+          width: 344,
           height: 160,
         },
       },
@@ -43,8 +43,8 @@ export default defineConfig({
         sponsors: consumeSponsors(sponsor => sponsor.monthlyDollars >= 400),
         preset: presets.large,
         logoSize: {
-          width: 342,
-          height: 114,
+          width: 270,
+          height: 150,
         },
       },
       {
@@ -52,8 +52,8 @@ export default defineConfig({
         sponsors: consumeSponsors(sponsor => sponsor.monthlyDollars >= 100),
         preset: presets.medium,
         logoSize: {
-          width: 226,
-          height: 84,
+          width: 190,
+          height: 73,
         },
       },
     ];
