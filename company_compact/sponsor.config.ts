@@ -1,6 +1,6 @@
 import { defineConfig } from 'sponsorkit'
 import { onSponsorsFetched } from '../sponsor.config'
-import { companys } from '../company/sponsor.config'
+import { companies } from '../company/sponsor.config'
 
 export default defineConfig({
   onSponsorsFetched,
@@ -9,7 +9,7 @@ export default defineConfig({
     const companySponsors = sponsors
       .sort((a, b) => b.monthlyDollars - a.monthlyDollars)
       .filter(sponsor => sponsor.monthlyDollars >= 100)
-      .filter(sponsor => !!companys[sponsor.sponsor.login]);
+      .filter(sponsor => !!companies[sponsor.sponsor.login]);
 
     composer.height = 20;
     addCompanySponsors(companySponsors, 378, 84);
@@ -18,7 +18,7 @@ export default defineConfig({
     function addCompanySponsors(sponsorsToAdd: typeof sponsors, width: number, height: number) {
 
       const baseLeft = 20;
-      const add = sponsorsToAdd.map(sponsor => companys[sponsor.sponsor.login] ? { sponsor, company: companys[sponsor.sponsor.login] } : undefined).filter(sponsor => !!sponsor);
+      const add = sponsorsToAdd.map(sponsor => companies[sponsor.sponsor.login] ? { sponsor, company: companies[sponsor.sponsor.login] } : undefined).filter(sponsor => !!sponsor);
 
       let left = baseLeft;
 
