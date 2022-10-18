@@ -30,7 +30,7 @@ export default defineConfig({
 
     const tiers = [
       {
-        name: 'The Platinum Sponsor',
+        name: 'Special Sponsor',
         sponsors: consumeSponsors(sponsor => sponsor.monthlyDollars >= 2000),
         preset: presets.xl,
         logoSize: {

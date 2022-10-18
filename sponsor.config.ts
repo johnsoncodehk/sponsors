@@ -40,7 +40,7 @@ export default defineConfig({
       preset: presets.xl,
     },
     {
-      title: 'The Platinum Sponsor',
+      title: 'Special Sponsor',
       monthlyDollars: 2000,
       preset: presets.xl,
     },
