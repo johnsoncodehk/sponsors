@@ -26,7 +26,7 @@ export default defineConfig({
         composer.addSponsorGrid(sponsors.filter(sponsor => sponsor.monthlyDollars >= 8 && sponsor.monthlyDollars < 20), presets.base);
         composer.addSponsorGrid(sponsors.filter(sponsor => sponsor.monthlyDollars < 8), presets.small);
         composer.addSpan(35);
-        composer.addText('Thank you all.');
+        composer.addText('🎄 Thank you and Merry Christmas. 🎁');
       },
     },
     {
