@@ -6,6 +6,6 @@
         "build:company_compact": "cd company_compact && sponsorkit -w 800 --dir . --force"
     },
     "dependencies": {
-        "sponsorkit": "latest"
+        "sponsorkit": "0.8.9"
     }
 }
