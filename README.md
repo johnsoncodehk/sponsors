@@ -1,6 +1,4 @@
-# Sponsors
-
-### Special Sponsor
+### The Special Sponsor 🚀
 
 <table>
   <tbody>
@@ -13,7 +11,7 @@
   </tbody>
 </table>
 
-### Platinum Sponsors
+### Our Platinum Sponsors ✨
 
 <table>
   <tbody>
@@ -35,7 +33,7 @@
   </tbody>
 </table>
 
-### Silver Sponsors
+### Our Silver Sponsors
 
 <table>
   <tbody>
