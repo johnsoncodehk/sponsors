@@ -29,6 +29,8 @@
       <td align="center" valign="middle">
         <a href="https://www.jetbrains.com/"><img src="https://cdn.jsdelivr.net/gh/johnsoncodehk/sponsors/logos/JetBrains.svg" height="80" /></a>
       </td>
+      <td align="center" valign="middle">
+      </td>
     </tr>
   </tbody>
 </table>
