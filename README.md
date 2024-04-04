@@ -1,6 +1,6 @@
 # Sponsors
 
-### The Special Sponsor ✨
+### Special Sponsor
 
 <table>
   <tbody>
@@ -13,7 +13,7 @@
   </tbody>
 </table>
 
-### Our Platinum Sponsors
+### Platinum Sponsors
 
 <table>
   <tbody>
@@ -24,6 +24,8 @@
       <td align="center" valign="middle">
         <a href="https://astro.build/"><img src="https://cdn.jsdelivr.net/gh/johnsoncodehk/sponsors/logos/Astro.svg" height="80" /></a>
       </td>
+    </tr>
+    <tr>
       <td align="center" valign="middle">
         <a href="https://www.jetbrains.com/"><img src="https://cdn.jsdelivr.net/gh/johnsoncodehk/sponsors/logos/JetBrains.svg" height="80" /></a>
       </td>
@@ -31,7 +33,7 @@
   </tbody>
 </table>
 
-### Our Silver Sponsors
+### Silver Sponsors
 
 <table>
   <tbody>
