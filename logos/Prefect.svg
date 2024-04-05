@@ -15,4 +15,11 @@
 <stop offset="1" stop-color="#0052FF"/>
 </linearGradient>
 </defs>
+<style>
+@media (prefers-color-scheme: dark) {
+  path:first-child {
+    fill: white;
+  }
+}
+</style>
 </svg>
