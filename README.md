@@ -74,5 +74,3 @@
 ## Clear jsdelivr cache
 
 https://purge.jsdelivr.net/gh/johnsoncodehk/sponsors/sponsors.svg
-https://purge.jsdelivr.net/gh/johnsoncodehk/sponsors/company/sponsors.svg
-https://purge.jsdelivr.net/gh/johnsoncodehk/sponsors/company_compact/sponsors.svg
