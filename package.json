@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "build:base": "sponsorkit -w 800 --dir . --force"
+        "build": "sponsorkit -w 800 --dir . --force"
     },
     "dependencies": {
         "sponsorkit": "0.8.9"
