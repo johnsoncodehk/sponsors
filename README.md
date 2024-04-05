@@ -20,13 +20,13 @@
       </td>
     </tr>
     <tr>
-      <td align="center" valign="middle">
+      <td align="center" valign="middle" width="50%">
         <a href="https://vuejs.org/">
           <img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/Vue.svg" height="80" />
         </a>
         <p>An approachable, performant and versatile framework for building web user interfaces.</p>
       </td>
-      <td align="center" valign="middle">
+      <td align="center" valign="middle" width="50%">
         <a href="https://astro.build/">
           <img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/Astro.svg" height="80" />
         </a>
