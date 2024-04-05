@@ -35,7 +35,7 @@
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="[https://astro.build/](https://www.jetbrains.com/)">
+        <a href="https://www.jetbrains.com/">
           <img src="https://cdn.jsdelivr.net/gh/johnsoncodehk/sponsors/logos/JetBrains.svg" height="80" />
         </a>
         <p>However big or small your team is, our products will ensure that it always has a smooth and enjoyable experience when <br><a class="rs-link rs-link_mode_classic rs-link_theme_dark product-type-link" href="/products/#type=ci-cd"><span>building</span> your code</a>, <a class="rs-link rs-link_mode_classic rs-link_theme_dark product-type-link" href="/products/#type=pm"><span>planning</span> your work</a>, or <a class="rs-link rs-link_mode_classic rs-link_theme_dark product-type-link" href="/products/#type=code-review"><span>collaborating</span></a>.</p>
