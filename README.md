@@ -8,7 +8,7 @@
     <tr>
       <td align="center" valign="middle" colspan="2">
         <a href="https://stackblitz.com/">
-          <img src="./logos/StackBlitz.svg" height="80" />
+          <img src="./logos/StackBlitz-2.svg" height="80" />
         </a>
         <p>Stay in the flow with instant dev experiences.<br>No more hours stashing/pulling/installing locally</p>
         <p><b> — just click, and start coding.</b></p>
