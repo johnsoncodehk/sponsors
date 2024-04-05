@@ -53,7 +53,7 @@
         <a href="https://www.prefect.io/"><img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/Prefect.svg" height="50" /></a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://www.techjobasia.com/"><img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/TechJobAsia.png" height="50" /></a>
+        <a href="https://www.techjobasia.com/"><img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/TechJobAsia.svg" height="50" /></a>
       </td>
     </tr>
   </tbody>
