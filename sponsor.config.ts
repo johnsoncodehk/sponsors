@@ -30,19 +30,9 @@ export default defineConfig({
       },
     },
     {
-      title: 'Silver Sponsors',
+      title: 'Silver/Company Sponsors',
       monthlyDollars: 100,
       preset: presets.large,
-    },
-    {
-      title: 'Gold Sponsors',
-      monthlyDollars: 400,
-      preset: presets.xl,
-    },
-    {
-      title: 'Special Sponsor',
-      monthlyDollars: 2000,
-      preset: presets.xl,
     },
   ],
 })
