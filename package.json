@@ -1,4 +1,5 @@
 {
+    "type": "module",
     "scripts": {
         "build": "sponsorkit -w 800 --dir . --force"
     },
