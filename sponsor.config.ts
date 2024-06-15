@@ -2,6 +2,7 @@
 import { defineConfig, presets } from 'sponsorkit'
 
 export default defineConfig({
+  renderer: 'circles',
   tiers: [
     {
       title: 'Sponsors',
