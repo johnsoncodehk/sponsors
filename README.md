@@ -29,7 +29,7 @@
       <td align="center" valign="middle" width="50%">
         <a href="https://astro.build/">
           <!-- Expire: 2025-02-04 -->
-          <img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/Astro.svg" height="80" />
+          <img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/Astro.svg" width="200" />
         </a>
         <p>Astro powers the world's fastest websites, client-side web apps, dynamic API endpoints, and everything in-between.</p>
       </td>
@@ -38,14 +38,14 @@
       <td align="center" valign="middle">
         <!-- Expire: 2025-02-04 -->
         <a href="https://www.jetbrains.com/">
-          <img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/JetBrains.svg" height="80" />
+          <img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/JetBrains.svg" width="80" />
         </a>
         <p>Essential tools for software developers and teams.</p>
       </td>
       <td align="center" valign="middle">
         <!-- Expire: 2024-08-16 -->
         <a href="https://opensource.microsoft.com/">
-          <img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/Microsoft.svg" height="80" />
+          <img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/Microsoft.svg" width="200" />
         </a>
         <p>Open Source enables Microsoft products and services to bring choice, technology and community to our customers.</p>
       </td>
@@ -57,10 +57,10 @@
     </tr>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://www.prefect.io/"><img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/Prefect.svg" height="50" /></a>
+        <a href="https://www.prefect.io/"><img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/Prefect.svg" width="200" /></a>
       </td>
       <td align="center" valign="middle">
-        <a href="https://www.techjobasia.com/"><img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/TechJobAsia.svg" height="50" /></a>
+        <a href="https://www.techjobasia.com/"><img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/TechJobAsia.svg" width="200" /></a>
       </td>
     </tr>
   </tbody>
