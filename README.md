@@ -56,13 +56,13 @@
       </td>
     </tr>
     <tr>
-      <td align="center" valign="middle" colspan="2">
+      <td align="center" valign="middle" width="33.3%" colspan="2">
         <a href="https://www.prefect.io/"><img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/Prefect.svg" width="200" /></a>
       </td>
-      <td align="center" valign="middle" colspan="2">
+      <td align="center" valign="middle" width="33.3%" colspan="2">
         <a href="https://www.techjobasia.com/"><img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/TechJobAsia.svg" width="200" /></a>
       </td>
-      <td align="center" valign="middle" colspan="2">
+      <td align="center" valign="middle" width="33.3%" colspan="2">
         <a href="https://haoqun.blog/"><img src="https://avatars.githubusercontent.com/u/3277634?v=4" height="80" /></a>
       </td>
     </tr>
