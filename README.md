@@ -7,11 +7,11 @@
     </tr>
     <tr>
       <td align="center" valign="middle" colspan="6">
-        <a href="https://stackblitz.com/">
-          <img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/StackBlitz.svg" height="80" />
+        <br>
+        <a href="https://voidzero.dev/">
+          <img src="./logos/VoidZero.svg" height="60" />
         </a>
-        <p>Stay in the flow with instant dev experiences.<br>No more hours stashing/pulling/installing locally</p>
-        <p><b> — just click, and start coding.</b></p>
+        <h3>Next Generation Tooling</h3>
       </td>
     </tr>
     <tr>
@@ -43,11 +43,11 @@
         <p>Essential tools for software developers and teams.</p>
       </td>
       <td align="center" valign="middle" colspan="3">
-        <!-- Expire: 2024-08-16 -->
-        <a href="https://opensource.microsoft.com/">
-          <img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/Microsoft.svg" width="200" />
+        <a href="https://stackblitz.com/">
+          <img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/StackBlitz.svg" width="240" />
         </a>
-        <p>Open Source enables Microsoft products and services to bring choice, technology and community to our customers.</p>
+        <p>Stay in the flow with instant dev experiences.<br>No more hours stashing/pulling/installing locally</p>
+        <p><b> — just click, and start coding.</b></p>
       </td>
     </tr>
     <tr>
