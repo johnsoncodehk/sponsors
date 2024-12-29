@@ -9,7 +9,7 @@
       <td align="center" valign="middle" colspan="6">
         <br>
         <a href="https://voidzero.dev/">
-          <img src="./logos/VoidZero.svg" height="60" />
+          <img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/VoidZero.svg" height="60" />
         </a>
         <h3>Next Generation Tooling</h3>
       </td>
