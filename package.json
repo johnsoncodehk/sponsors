@@ -1,9 +1,8 @@
 {
-    "type": "module",
     "scripts": {
-        "build": "sponsorkit -w 800 --dir . --force && node ./updateMembership.cjs"
+        "build": "sponsorkit -w 800 --dir . --force && node ./updateMembership.js"
     },
     "dependencies": {
-        "sponsorkit": "^0.14.5"
+        "sponsorkit": "latest"
     }
 }
