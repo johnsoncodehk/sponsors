@@ -26,23 +26,7 @@
         </a>
         <p>An approachable, performant and versatile framework for building web user interfaces.</p>
       </td>
-      <td align="center" valign="middle" width="50%" colspan="3">
-        <a href="https://astro.build/">
-          <!-- Expire: 2025-02-04 -->
-          <img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/Astro.svg" width="200" />
-        </a>
-        <p>Astro powers the world's fastest websites, client-side web apps, dynamic API endpoints, and everything in-between.</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" valign="middle" colspan="3">
-        <!-- Expire: 2025-02-04 -->
-        <a href="https://www.jetbrains.com/">
-          <img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/JetBrains.svg" width="80" />
-        </a>
-        <p>Essential tools for software developers and teams.</p>
-      </td>
-      <td align="center" valign="middle" colspan="3">
+      <td align="center" valign="middle" width="50%" colspan="6">
         <a href="https://stackblitz.com/">
           <img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/StackBlitz.svg" width="240" />
         </a>
@@ -52,18 +36,28 @@
     </tr>
     <tr>
       <td align="center" valign="middle" colspan="6">
+        <b>Gold Sponsors</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" colspan="6">
+        <a href="https://www.jetbrains.com/">
+          <img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/JetBrains.svg" width="80" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" colspan="6">
         <b>Silver Sponsors</b>
       </td>
     </tr>
     <tr>
       <td align="center" valign="middle" width="33.3%" colspan="2">
+      </td>
+      <td align="center" valign="middle" width="33.3%" colspan="2">
         <a href="https://www.prefect.io/"><img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/Prefect.svg" width="200" /></a>
       </td>
       <td align="center" valign="middle" width="33.3%" colspan="2">
-        <a href="https://www.techjobasia.com/"><img src="https://raw.githubusercontent.com/johnsoncodehk/sponsors/master/logos/TechJobAsia.svg" width="200" /></a>
-      </td>
-      <td align="center" valign="middle" width="33.3%" colspan="2">
-        <a href="https://haoqun.blog/"><img src="https://avatars.githubusercontent.com/u/3277634?v=4" height="80" /></a>
       </td>
     </tr>
   </tbody>
