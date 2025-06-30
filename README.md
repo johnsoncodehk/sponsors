@@ -1,3 +1,5 @@
+<p align="center">This project is made possible thanks to our generous sponsors:</p>
+
 <table>
   <tbody>
     <tr>
@@ -64,7 +66,8 @@
 </table>
 
 <p align="center">
-	<a href="https://github.com/sponsors/johnsoncodehk">Become a sponsor</a>
+	<a href="https://github.com/sponsors/johnsoncodehk" target="_blank">Become a sponsor</a> to support Vue
+	tooling development
 </p>
 
 ---
