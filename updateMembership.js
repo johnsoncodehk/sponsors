@@ -8,6 +8,9 @@ for (const { sponsor, monthlyDollars } of sponsors) {
     let cnt = 0
     if (monthlyDollars < 200) {
         cnt = Math.floor(monthlyDollars / 20)
+        if (monthlyDollars >= 3) {
+            cnt = Math.max(cnt, 1);
+        }
     } else if (monthlyDollars < 1000) {
         cnt = Math.floor(monthlyDollars / 16.6)
     } else {
